@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="welcome_line">Type your question or just click ask</string>
+    <string name="action_settings">Settings</string>
+    <string name="ask">Ask</string>
+    <string name="askAgain">Ask Again</string>
+    <string name="title_activity_response">8 Ball says</string>
+    <string name="edit_message">Type your question or just click ask</string>
+    <string name="speakButton">Start voice input</string>
+    <string name="shake_text">Or just shake the device</string>
+
+</resources>
